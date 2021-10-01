@@ -5,7 +5,7 @@ import 'package:flutter_movie_db/page/home_page.dart';
 void main() {
   runApp(MyApp());
 }
-
+// ikut hacktober fest
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
